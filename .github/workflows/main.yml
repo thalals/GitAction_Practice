@@ -1,4 +1,4 @@
-name: my-front
+name: GitAction_Practice
 on:
   push:
     branches:
